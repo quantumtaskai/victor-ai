@@ -995,3 +995,4 @@ document.addEventListener('DOMContentLoaded', function() {
   
   console.log('✅ Trade Intelligence JS loaded successfully');
 });
+
